@@ -1,0 +1,22 @@
+2019-12-27T13:13:37+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php on line 10
+
+2019-12-27T13:14:38+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php on line 10
+
+2019-12-27T13:23:49+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php on line 84
+
+2019-12-27T13:24:48+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php on line 84
+
+2019-12-27T13:26:37+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php on line 84
+
+2019-12-27T13:55:30+00:00 CRITICAL Uncaught Error: Call to undefined function add_cap() in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php:78
+Stack trace:
+#0 C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\index.php(9): include()
+#1 C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\functions.php(6): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\baizik\app\wp-settings.php(497): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\baizik\app\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\baizik\app\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\baizik\app\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\baizik\app\wp-admin\user-edit.php(10): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\baizik\app\wp-content\themes\baizik\wc\vendor-user.php on line 78
+
